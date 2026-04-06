@@ -1,2 +1,2 @@
 # ray-tracer
-Implement a raytracer
+Implement a raytracer based on "Raytracing in one weekened"
